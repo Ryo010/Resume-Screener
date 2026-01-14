@@ -1,0 +1,118 @@
+{
+  "full_name": "Anit Thapa",
+  "email": "anitthapa1738@gmail.com",
+  "phone": "+91-9667321712",
+  "location": "New Delhi, India",
+  "external_links": {
+    "linkedin": "https://www.linkedin.com/in/anit-thapa-1a3080296/",
+    "github": "https://github.com/Ryo010",
+    "other": [
+      "https://cert.diceid.com/cid/dDw1550uo8?verify=true"
+    ]
+  },
+  "work_experience": [
+    {
+      "company": "Corizo",
+      "position": "Trainee",
+      "duration": "April 2024 \u2013 May 2024",
+      "description": "Learnt how to use AWS and release a webpage using it."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Galgotias University",
+      "degree": "Bsc. (Hons.) Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_year": "2023-2026"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Full Stack - Wallet App",
+      "description": "Built a wallet app where you can keep track of your balance by adding transactions and never go wrong with your balance.",
+      "skills": [
+        "React Native",
+        "Node.js",
+        "Express.js"
+      ],
+      "url": "https://github.com/Ryo010/React-Native-Wallet-App"
+    },
+    {
+      "name": "Raven Engine - Game Engine",
+      "description": "Developing a game engine to make 2D and 3D games using C++ as the core.",
+      "skills": [
+        "C",
+        "C++",
+        "Lua",
+        "Python"
+      ],
+      "url": "https://github.com/Crow-Works/RavenEngine"
+    },
+    {
+      "name": "Full Stack - Realtime Chat App",
+      "description": "Designed and developed a website for people to chat realtime with each other.",
+      "skills": [
+        "MERN"
+      ],
+      "url": "https://github.com/Ryo010/Realtime-Chat-App"
+    },
+    {
+      "name": "Search Engine",
+      "description": "Developed a search engine similar to google using C++, curl and serpAPI.",
+      "skills": [
+        "C++",
+        "curl",
+        "serpAPI"
+      ],
+      "url": "https://github.com/Ryo010/SearchEngine"
+    },
+    {
+      "name": "StartEnd - 2D Game",
+      "description": "Developed a 2D game like vampire survivors and holocure.",
+      "skills": [
+        "Java"
+      ],
+      "url": "https://github.com/Ryo010/StartEnd"
+    }
+  ],
+  "certifications": [],
+  "extracurricular_activities": [
+    {
+      "name": "Smart India Hackathon 2024",
+      "description": "Built a speech-to-text webpage for students who are deaf"
+    }
+  ],
+  "awards_honors": [],
+  "skills": [
+    "Python",
+    "SQL",
+    "C/C++",
+    "Java",
+    "JavaScript",
+    "Numpy",
+    "Matplotlib",
+    "Pandas",
+    "MongoDB",
+    "Express",
+    "React",
+    "Next.js",
+    "Django",
+    "Flask",
+    "AWS",
+    "Git/GitHub",
+    "Bash",
+    "Word",
+    "Excel",
+    "PowerPoint",
+    "Outlook",
+    "Cloud Computing",
+    "Japanese (N4)",
+    "MySQL",
+    "Problem Solving",
+    "Data science",
+    "Machine Learning",
+    "Feature Engineering",
+    "DSA"
+  ],
+  "publications": []
+}
