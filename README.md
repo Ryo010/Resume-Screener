@@ -2,11 +2,6 @@
 
 A smart resume screening tool that actually reads resumes like a human would. Upload a resume, paste a job description, and get a detailed match score with real insights.
 
-![Homepage](images/homepage.png)
-![Result ](images/result.png)
-![Result 1](images/result1.png)
-![Result 2](images/result2.png)
-
 ## What it does
 
 Takes the boring out of resume screening. The AI reads through resumes, pulls out what matters, and tells you if someone's a good fit for your job opening.
